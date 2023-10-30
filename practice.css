@@ -1,0 +1,25 @@
+*{
+  flex-direction: column;
+  background-color: lightblue;
+}
+
+
+header {
+  text-align:center;
+}   
+
+article  { 
+  width:400px;
+  border-style: solid;    
+  border-color: red;      
+  position:absolute;    
+  bottom: 40%;    
+  
+}
+
+header ul { 
+  font-style:italic;
+  display: block;
+  
+  
+}

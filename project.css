@@ -1,0 +1,204 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+  
+
+
+header{
+    background-color: grey;
+    padding: 2rem 3rem;
+    min-width: 650px;
+    
+}
+
+
+
+header H1 { 
+    top: 0px;
+    left: 0px; 
+     
+} 
+
+header h2{ 
+    position:absolute;
+    margin: 450px 1150px;
+    width: 50%;
+    font-size: 50px;
+}
+
+header ul a{ 
+  padding: 2rem 3rem;
+  margin-bottom: 3rem;
+  background-color: grey;
+  border-radius: .3rem;
+  float: right;
+  margin-top: -50px; 
+  text-decoration:none;
+  color:black; 
+
+  
+  
+}
+
+
+
+ img {
+    border-style:solid;
+    border-color: lightblue;
+    display:flex;
+    justify-content: end;
+    flex-wrap: wrap;
+    
+   
+    
+    
+    
+}
+
+
+
+
+#image1{
+   width: 100%;
+   background-image: url(./images/abstract-modern-blue-background-free-vector.jpg);
+   background-size: cover;
+   background-position: center;
+   margin: -500px -10px; 
+   position:absolute;
+   height: 300px;
+   
+}
+   
+  
+
+   
+
+
+#image2 { 
+    width: 664px; 
+    margin: -1px 600px; /* cant figure out how to make this stay on page */ 
+    background-image: url(./images/pexels-felix-mittermeier-1039129.jpg);
+    background-size:cover;         
+    background-position: center;   
+    position:absolute;
+   
+   
+      
+     
+}
+
+
+
+#image3 {  
+    width: 31%;  
+    margin: 1270px; /* cant figure out how to make this stay on page */ 
+    margin-top: 500px;
+    min-width:31%;
+    background-image: url(./images/forward-am-surfboard-header.webp);
+    background-size:cover;    
+    background-position:center;                                               
+   
+}
+
+#image4 {
+    width: 31%;
+    margin: -1270px 1269px; 
+    position:absolute;
+}
+
+article a {
+    text-decoration:none;
+    color: black;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+#box-text{    
+    background-color: lightblue;        
+    border: lightblue;       
+    margin: -1490px 600px;
+    width: 139px;
+    font-size:35px;
+    position:absolute; 
+    
+    
+    
+}
+#box-text:hover{
+    background-color:red;
+}
+
+
+
+#box-text2{
+    background-color: lightblue;
+    border: lightblue;
+    margin: -93rem 1270px; 
+    width: 139px; 
+    font-size:35px; 
+    position:absolute;  
+    
+}
+
+#box-text2:hover{
+    background-color:red;
+}
+
+
+#box-text3:hover{
+    background-color:red;
+}
+
+
+#box-text3{
+    background-color: lightblue;
+    border: lightblue;
+    margin: -66rem 1272px;
+    width: 139px;
+    font-size:35px;
+    position:absolute;
+    
+}
+
+nav ul a{ 
+    width: 100%;
+    text-decoration: underline;
+    display:flex;
+    color: black;
+    text-underline-position: right;
+    
+    
+    
+}   
+
+#about{
+    position:absolute; 
+    margin: -1300px 20px;
+}
+
+#contact-me{
+    position:absolute;
+    margin: -1200px 20px;
+}
+#bottom-contact1{  
+    position:absolute; 
+    margin:-840px 800px; 
+    
+}
+
+#bottom-contact2{
+    position:absolute;
+    margin: -840px 1000px; 
+   
+}
+#line {
+    height: 100%;
+    border-width: 2px;
+    border-style: groove; 
+    position:absolute;
+    margin: 700px 550px;
+    
+    
+  }
